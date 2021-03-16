@@ -1,0 +1,41 @@
+{
+  "name": {
+    "CN": {
+      "title": "鹿乃按钮",
+      "fullName": "Kano"
+    },
+    "JP": {
+      "title": "かのボタン",
+      "fullName": "Kano"
+    }
+
+  },
+  "header": {
+    "icon": "🦒",
+    "youtube": "https://www.youtube.com/channel/UCfuz6xYbYFGsWWBi3SpJI1w",
+    "twitter": "https://twitter.com/kano_2525",
+    "bilibili": "https://live.bilibili.com/15152878"
+  },
+  "footer": {
+    "author": [
+      {
+        "name": "YangXiaoguozi",
+        "url": "https://YangXiaoguozi.cn"
+      }
+    ],
+    "info": [
+      "<div>原作者<a href=\"https://space.bilibili.com/1384118\">我想改个带咸鱼的名字</a></div>"
+    ],
+    "githubUrl": "https://github.com/YangXiaoguozi/Kano-button"
+  },
+  "console": {
+    "text": "Kano",
+    "size": "24px",
+    "color": "pink",
+    "img": "Kano.png",
+    "imgWidth": "100%",
+    "imgHeight": "56%"
+  },
+  "mediaSession": "",
+  "CDN": "https://cdn.jsdelivr.net/gh/YangXiaoguozi/Kano-button@master/public/voices"
+}
