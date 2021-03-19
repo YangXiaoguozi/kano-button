@@ -19,12 +19,12 @@
   "footer": {
     "author": [
       {
-        "name": "YangXiaoguozi",
+        "name": "杨小果子",
         "url": "https://YangXiaoguozi.cn"
       }
     ],
     "info": [
-      "<div>原作者<a href=\"https://space.bilibili.com/1384118\">我想改个带咸鱼的名字</a></div>"
+      "<div>原作者：<a target=\"_blank\" href=\"https://space.bilibili.com/1384118\">我想改个带咸鱼的名字</a></br>服务器提供：<a target=\"_blank\" href=\"https://space.bilibili.com/160080754/\">假酒</a></div>"
     ],
     "githubUrl": "https://github.com/YangXiaoguozi/Kano-button"
   },
@@ -37,5 +37,5 @@
     "imgHeight": "56%"
   },
   "mediaSession": "",
-  "CDN": "https://cdn.jsdelivr.net/gh/YangXiaoguozi/Kano-button@master/public/voices"
+  "CDN": "https://cdn.jsdelivr.net/gh/YangXiaoguozi/kano-button@master/public/voices"
 }
