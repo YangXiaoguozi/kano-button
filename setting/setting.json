@@ -36,6 +36,8 @@
     "imgWidth": "100%",
     "imgHeight": "56%"
   },
-  "mediaSession": "",
+  "mediaSession": "xlb.png",
+  "GA_ID_comment": "GA_ID用于统计访问，请使用模板开发务必修改或删除",
+  "GA_ID": "G-GVLF8SNFVS",
   "CDN": "https://cdn.jsdelivr.net/gh/YangXiaoguozi/kano-button@master/public/voices"
 }
