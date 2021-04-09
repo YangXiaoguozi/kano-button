@@ -1,0 +1,226 @@
+[
+  {
+    "name": "excuse me",
+    "path": "excuse me.wav",
+    "translate": {
+      "zh-CN": "excuse me",
+      "ja-JP": "excuse me"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=ik7QDFyNrKY"
+    }
+  },
+  {
+    "name": "やめて",
+    "path": "やめて.wav",
+    "translate": {
+      "zh-CN": "不要啊",
+      "ja-JP": "やめて~"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=ik7QDFyNrKY"
+    }
+  },
+  {
+    "name": "啊~啊~啊~啊~啊~啊~.wav",
+    "path": "啊~啊~啊~啊~啊~啊~.wav",
+    "translate": {
+      "zh-CN": "啊~啊~啊~啊~啊~啊~",
+      "ja-JP": "あ～あ～あ～あ～"
+    },
+    "category": "かのの悲鳴",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=ik7QDFyNrKY"
+    }
+  },
+  {
+    "name": "嗷呜~嗷呜~嗷",
+    "path": "嗷呜~嗷呜~嗷.wav",
+    "translate": {
+      "zh-CN": "嗷呜~嗷呜~嗷",
+      "ja-JP": "やめて~"
+    },
+    "category": "かのの悲鳴",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=ik7QDFyNrKY"
+    }
+  },
+  {
+    "name": "吃鹿乃亲",
+    "path": "吃鹿乃亲.wav",
+    "translate": {
+      "zh-CN": "吃鹿乃亲",
+      "ja-JP": "かのちたべます"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "一ヶ月半遅れのお誕生日会ってことで！【鹿乃_花寄女子寮】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "嘟嘟噜",
+    "path": "嘟嘟噜.wav",
+    "translate": {
+      "zh-CN": "嘟嘟噜",
+      "ja-JP": "ドゥドゥル~"
+    },
+    "category": "かわいいかの",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=ik7QDFyNrKY"
+    }
+  },
+  {
+    "name": "堵住你的嘴",
+    "path": "堵住你的嘴.wav",
+    "translate": {
+      "zh-CN": "堵住你的嘴",
+      "ja-JP": "口を塞いでやる~"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "高兴拍手",
+    "path": "高兴拍手.wav",
+    "translate": {
+      "zh-CN": "高兴拍手",
+      "ja-JP": "拍手~"
+    },
+    "category": "かわいいかの",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "过分",
+    "path": "过分.wav",
+    "translate": {
+      "zh-CN": "过分",
+      "ja-JP": "ひどいよ~"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "加油",
+    "path": "加油.wav",
+    "translate": {
+      "zh-CN": "加油",
+      "ja-JP": "頑張っれ"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "可爱的声音1",
+    "path": "可爱的声音1.wav",
+    "translate": {
+      "zh-CN": "可爱的声音1",
+      "ja-JP": "かわいいの音声~"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "来了来了",
+    "path": "来了来了.wav",
+    "translate": {
+      "zh-CN": "来了来了",
+      "ja-JP": "きたきた"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "鹿乐器",
+    "path": "鹿乐器.wav",
+    "translate": {
+      "zh-CN": "鹿乐器",
+      "ja-JP": "かわいい音声1~"
+    },
+    "category": "かのの悲鳴",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "嗯~嗯~",
+    "path": "嗯~嗯~.wav",
+    "translate": {
+      "zh-CN": "嗯~嗯~",
+      "ja-JP": "えん~えん～"
+    },
+    "category": "かのの日常",
+    "date": "2021-04-09",
+    "mark": {
+        "title": "一ヶ月半遅れのお誕生日会ってことで！【鹿乃_花寄女子寮】",
+        "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "呜nya~",
+    "path": "呜nya~.wav",
+    "translate": {
+      "zh-CN": "呜nya~",
+      "ja-JP": "nya~"
+    },
+    "category": "かわいいかの",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  },
+  {
+    "name": "这个笨蛋",
+    "path": "这个笨蛋.wav",
+    "translate": {
+      "zh-CN": "这个笨蛋",
+      "ja-JP": "このバガ"
+    },
+    "category": "清楚かの",
+    "date": "2021-04-09",
+    "mark": {
+      "title": "【Getting Over It_壺男】Today of all days I'm going to do my best!【鹿乃】",
+      "url": "https://www.youtube.com/watch?v=dAhyFQvuRPo"
+    }
+  }
+]
