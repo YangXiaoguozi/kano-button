@@ -84,6 +84,11 @@ export default {
         name: 'Hiiro按钮',
         url: 'https://hiiro.club/',
         background: '#f5c1bb'
+      },
+      {
+        name: '七奈按钮',
+        url: 'https://kaguranana.moe/',
+        background: 'rgb(196, 175, 208)'
       }
     ]
 
